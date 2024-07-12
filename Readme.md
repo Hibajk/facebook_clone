@@ -2,7 +2,7 @@
 This project is a clone of the popular social media platform Facebook, built using HTML and CSS. The project aims to replicate the core features of Facebook, including the feed, stories, posts, and messaging system.
 
 ## Features
-```Feed```
+### Feed
 The feed is the main section of the Facebook clone, where users can view posts from their friends and family. The feed includes:
 
 Stories: A section at the top of the feed where users can view and post stories.
